@@ -21,11 +21,6 @@ A curated list of awesome papers, code, and resources on Federated Learning for 
 
 Federated Learning (FL) on Graph Classification combines the privacy-preserving nature of federated learning with the powerful representation capabilities of graph neural networks. This repository collects state-of-the-art research papers, implementations, and resources in this emerging field.
 
-### Why Federated Learning on Graphs?
-- **Privacy Preservation**: Keep sensitive graph data locally while collaboratively training models
-- **Distributed Nature**: Handle graphs naturally distributed across different clients
-- **Real-world Applications**: Healthcare networks, social networks, financial networks, molecular graphs
-
 ## Papers
 
 ### 2024
