@@ -31,7 +31,6 @@ Federated Learning (FL) on Graph Classification combines the privacy-preserving 
 - [Paper](https://ieeexplore.ieee.org/abstract/document/10965783#:~:text=To%20address%20this%20challenge%2C%20we%20propose%20Federated%20Graph,feature%20space%20and%20share%20it%20among%20IoT%20institutions.) 
   - Keywords: `Cross-domain `,`FedCSF`
 
-Federated Graph Learning via Constructing and Sharing Feature Spaces for Cross-Domain IoT
 ### 2024
 - **FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference**
 - *NIPS 24*
