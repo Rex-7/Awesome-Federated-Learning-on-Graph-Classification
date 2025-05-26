@@ -23,7 +23,7 @@ Federated Learning (FL) on Graph Classification combines the privacy-preserving 
 ### 2025
 
 ### 2024
-- **[FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference]** [[Paper]]([link](https://arxiv.org/abs/2410.20105)) [[Code]]([link](https://github.com/OakleyTan/FedSSP)) 
+- **[FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference]** [Paper](https://arxiv.org/abs/2410.20105) [Code](https://github.com/OakleyTan/FedSSP)
   - *Authors*, *Conference/Journal*
   - Key contributions: Brief description of main contributions
   - Keywords: `federated learning`, `graph neural networks`, `privacy`
