@@ -28,7 +28,7 @@ Federated Learning (FL) on Graph Classification combines the privacy-preserving 
   - Key contributions: Brief description of main contributions
   - Keywords: `federated learning`, `graph neural networks`, `privacy`
 
-- **[Paper Title]** [[Paper]](link) [[Code]](link)
+- **[Paper Title]** [[Paper]](link) [[Code]]https://arxiv.org/abs/2410.20105
   - *Authors*, *Conference/Journal*
   - Key contributions: Brief description
 
