@@ -21,36 +21,35 @@ Federated Learning (FL) on Graph Classification combines the privacy-preserving 
 ## Papers
 
 ### 2025
+- **Federated Graph-Level Clustering Network**
+- *AAAI 25*
+- [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34077#:~:text=To%20address%20this%20issue%2C%20we%20propose%20a%20novel,global%20consensus%20representations%20through%20multi-source%20clustering%20structure%20sharing.) 
+  - Keywords: `Cross-domain `,'Unsupervised','FedGCN'
 
 ### 2024
-- **[FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference]** [Paper](https://arxiv.org/abs/2410.20105) [Code](https://github.com/OakleyTan/FedSSP)
-  - *Authors*, *Conference/Journal*
-  - Key contributions: Brief description of main contributions
-  - Keywords: `federated learning`, `graph neural networks`, `privacy`
+- **FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference**
+- *NIPS 24*
+- [Paper](https://arxiv.org/abs/2410.20105) [Code](https://github.com/OakleyTan/FedSSP)
+  - Keywords: `Cross-domain `
 
-- **[Paper Title]** [[Paper]](link) [[Code]]https://arxiv.org/abs/2410.20105
-  - *Authors*, *Conference/Journal*
-  - Key contributions: Brief description
+
 
 ### 2023
-- **[Paper Title]** [[Paper]](link) [[Code]](link)
-  - *Authors*, *Conference/Journal*
-  - Key contributions: Brief description
+- **Federated Learning on Non-IID Graphs via Structural Knowledge Sharing**
+- *AAAI 23*
+- [Paper](https://arxiv.org/abs/2211.13009) [Code](https://github.com/yuetan031/FedStar)
+  - Keywords: `Cross-domain `,'FedStar'
 
 ### 2022
-- **[Paper Title]** [[Paper]](link) [[Code]](link)
-  - *Authors*, *Conference/Journal*
-  - Key contributions: Brief description
 
 ### 2021
-- **[Paper Title]** [[Paper]](link) [[Code]](link)
-  - *Authors*, *Conference/Journal*
-  - Key contributions: Brief description
+- **Federated Graph Classification over Non-IID Graphs**
+- *NIPS 21*
+- [Paper](https://arxiv.org/abs/2106.13423) [Code](https://github.com/Oxfordblue7/GCFL)
+  - Keywords: `Cross-domain `,'GCFL'
 
 ### Survey Papers
-- **[Survey Title]** [[Paper]](link)
-  - *Authors*, *Journal*, *Year*
-  - Scope: What aspects of FL on graphs are covered
+
 
 
 ## Datasets
