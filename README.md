@@ -70,6 +70,8 @@ Federated Learning (FL) on Graph Classification combines the privacy-preserving 
   - *Current Opinion in Structural Biology 2023*
   - Keywords: `Molecular `
 
-
+- **OpenFGL: A Comprehensive Benchmark for Federated Graph Learning** [Paper](https://arxiv.org/abs/2408.16288)
+  - *VLDB 2025*
+  - Keywords: `Benchmark `
 
 
